@@ -1,0 +1,27 @@
+{
+  "name": "hardhat-project",
+  "version": "1.0.0",
+  "main": "hardhat.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hit-Box-Games-LLC/TokenScripts.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hit-Box-Games-LLC/TokenScripts/issues"
+  },
+  "homepage": "https://github.com/Hit-Box-Games-LLC/TokenScripts#readme",
+  "description": "",
+  "dependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.0.4",
+    "@openzeppelin/contracts": "^4.8.0",
+    "ethereum-waffle": "^3.4.0",
+    "ethers": "5.4",
+    "hardhat": "^2.8.2"
+  }
+}
